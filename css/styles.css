@@ -1,0 +1,28 @@
+.container{
+    max-width: 600px;
+    background-color: lavender;
+}
+.btn{
+    background: rgb(178, 187, 181);
+    color: rgb(22, 24, 23);
+    /* outline: none !important;
+    box-shadow: none !important; */
+}
+.btn:focus{
+    outline: none !important;
+}
+.username{
+    font-weight:bold;   
+}
+.time{
+    font-size:0.7em;
+}
+/* .chat-list{
+    background-color: lightblue;
+    height: 250px;
+    overflow:auto;
+} */
+
+
+
+/*hello world  */
