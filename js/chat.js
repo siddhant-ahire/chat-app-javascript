@@ -1,5 +1,5 @@
 // adding new chat document
-const secret = process.env.TEST;
+const secret = secret.TEST;
 console.log(secret);
 class Chatroom {
     constructor(room,username){
