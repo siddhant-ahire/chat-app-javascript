@@ -1,6 +1,4 @@
 // adding new chat document
-const secret = secret.TEST;
-console.log(secret);
 class Chatroom {
     constructor(room,username){
         this.room=room;
